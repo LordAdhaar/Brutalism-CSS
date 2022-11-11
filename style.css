@@ -143,12 +143,14 @@ a{
     font-family: 'Roboto Mono', sans-serif;
     background-color: white;
     margin: 2px;
-    font-size: 26px;
+    font-size: 21px;
     margin-bottom:2px;
     padding: 5px;
     margin-right: 5px;
     position: relative;
 }
+
+
 
 .main-content .three .glow{
     position: relative;
@@ -186,6 +188,21 @@ a{
     height: auto;
     /* width: 100%; */
     width: 485px;
+}
+
+.main-content .three-3{
+    display: flex;
+    padding: 8px;
+    background:deeppink;
+    justify-content: center;
+    font-size: 2.1rem;
+}
+
+.main-content .three-3 h1{
+    border: 15px solid;
+    font-family:'Roboto Mono', sans-serif ;
+    color: white;
+
 }
 
 .main-content .four p{
