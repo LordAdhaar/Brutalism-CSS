@@ -128,8 +128,15 @@ a{
 }
 
 .main-content .three .bw{
-    height: 330px;
-    width: 250px;
+    height: auto;
+    width: 100%;
+    max-width: 224px;
+}
+
+.main-content .three .vw{
+    height: auto;
+    width: 100%;
+    max-width: 250px;
 }
 
 .main-content .three p{
@@ -138,10 +145,14 @@ a{
     font-size: 30px;
     margin-bottom:2px;
     padding: 5px;
+    border: 5px solid;
+    margin-right: 5px;
 }
 
-.main-content .three span{
-    background: #69eaff;
+.main-content .three-2 img{
+    height: auto;
+    /* width: 100%; */
+    width: 485px;
 }
 
 .main-content .four p{
@@ -153,6 +164,10 @@ a{
 
 .main-content .four .para-one{
     border: 5px solid black;
+}
+
+.main-content .four .para-two{
+    border: 5px solid white;
 }
 
 .main-content span{
