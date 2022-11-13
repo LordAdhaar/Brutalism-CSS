@@ -2,8 +2,14 @@
 
 PASSION PROJECT
 
-#LIVE PREVIEW
+BRUTALISM WEB DESIGN
+
+#LIVE PREVIEWS
+
+#LANDING-PAGE-BRUTALIST
 
 https://lordadhaar.github.io/Brutalism-CSS/
 
-BRUTALISM WEB DESIGN
+#ADMIN-DASHBOARD-BRUTALIST
+
+https://lordadhaar.github.io/Admin-Dashboard-Brutalism-CSS/
