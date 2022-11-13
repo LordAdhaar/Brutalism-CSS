@@ -23,7 +23,6 @@ body{
     padding: 5px;
     display: grid;
     gap: 5px;
-    grid-template-rows: 0.07fr 0.07fr 1fr;
 }
 
 .header{
@@ -229,4 +228,31 @@ a{
     max-width: 350px;
     width: 100%;
 
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    gap: 10px;
+}
+
+.footer p.text{
+    font-family: Brut, sans-serif;
+}
+
+.footer .id{
+    display: flex;
+    align-items: center;
+}
+
+.footer p.at{
+    font-family: Brut, sans-serif;
+
+}
+
+.footer p.at-id{
+    font-family: 'Roboto Mono', sans-serif;
 }
