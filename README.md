@@ -1,15 +1,9 @@
 # Brutalism-CSS
 
-PASSION PROJECT
-
-BRUTALISM WEB DESIGN
+PASSION PROJECT - BRUTALISM WEB DESIGN
 
 #LIVE PREVIEWS
 
-#LANDING-PAGE-BRUTALIST
+#LANDING-PAGE-BRUTALIST - https://lordadhaar.github.io/Brutalism-CSS/
 
-https://lordadhaar.github.io/Brutalism-CSS/
-
-#ADMIN-DASHBOARD-BRUTALIST
-
-https://lordadhaar.github.io/Admin-Dashboard-Brutalism-CSS/
+#ADMIN-DASHBOARD-BRUTALIST - https://lordadhaar.github.io/Admin-Dashboard-Brutalism-CSS/
